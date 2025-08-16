@@ -1,0 +1,14 @@
+# spdlog C++
+[submodule "3rdparty/spdlog"]
+	path = 3rdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
+
+# nlohmann
+[submodule "3rdparty/nlohmann"]
+	path = 3rdparty/nlohmann
+	url = https://github.com/nlohmann/json.git
+
+# juice
+[submodule "3rdparty/juice"]
+	path = 3rdparty/juice
+	url = https://github.com/paullouisageneau/libjuice.git
